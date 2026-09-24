@@ -29,7 +29,6 @@ Traced a Kenyan production line's reject-rate spike (1.6% → 6.6%) back to its 
 
 <p align="center">
 <img src="rca-pareto.png" width="48%">
-<img src="rca-fishbone.png" width="48%">
 </p>
 
 **Stack:** Python · Pareto Analysis · Root Cause Analysis
@@ -73,7 +72,7 @@ Dedan Kimathi University of Technology
 
 ## Experience
 
-- **Data Science Intern, Govern** — Geospatial & data analysis for a community tech platform
+- **Data Science Intern, OurCode Pty ** — Geospatial & data analysis for a community tech platform
 - **Assistant Data Field Officer, KEPSA** — Field-level verification of large-scale business data
 - **Land Surveyor, Ubuntu Geodigital Technologies** — Surveying and geospatial techniques in land-related projects and field data collection
 - **Community Management, CSA Africa Alumni** — Managed engagement across a ~250-member alumni community

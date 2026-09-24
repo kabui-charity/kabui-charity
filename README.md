@@ -1,5 +1,3 @@
-< alt="Charity Kabui — Data Analyst & Geospatial Data Scientist">
-
 # Charity Kabui
 
 **Data Analyst & Geospatial Data Scientist**

@@ -1,4 +1,4 @@
-<img src="portfolio-thumbnail.png" width="100%" alt="Charity Kabui — Data Analyst & Geospatial Data Scientist">
+< alt="Charity Kabui — Data Analyst & Geospatial Data Scientist">
 
 # Charity Kabui
 
